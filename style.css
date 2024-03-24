@@ -1,0 +1,19 @@
+.jumbotron {
+    padding-top: 5rem;
+    background-color: #183D3D;
+}
+
+#skill {
+    background-color: #183D3D;
+    padding-top: 5rem;
+}
+
+#about {
+    background-color:#5C8374;
+    padding-top: 5rem;
+
+}
+#project {
+    padding-top: 5rem;
+    background-color: #5C8374;
+}
